@@ -1,0 +1,106 @@
+{
+    "year": {
+        "2019": {
+            "1": {
+                "1": "New Year's Day"
+                 },
+            "2": {
+                "18": "Ontario Family Day"
+                 },
+            "4": {
+                "19": "Good Friday",
+                "21": "Easter"
+                 },
+            "5": {
+                "20": "Victoria Day"
+                 },
+            "7": {
+                "1": "Canada Day"
+                 },
+            "8": {
+                "5": "Civic Holiday"
+                 },
+            "9": {
+                "2": "Labour Day"
+                 },
+            "10": {
+                "14": "ThanksGiving"
+                  },
+            "11": {
+                "11": "Rememberance Day"
+                  },
+            "12": {
+                "25": "Christmas Day",
+                "26": "Boxing Day"
+                  }
+                },
+        "2020": {
+            "1": {
+                "1": "New Year's Day"
+                 },
+            "2": {
+                "17": "Ontario Family Day"
+                 },
+            "4": {
+                "10": "Good Friday",
+                "13": "Easter"
+                 },
+            "5": {
+                "18": "Victoria Day"
+                 },
+            "7": {
+                "1": "Canada Day"
+                 },
+            "8": {
+                "3": "Civic Holiday"
+                 },
+            "9": {
+                "7": "Labour Day"
+                 },
+            "10": {
+                "12": "ThanksGiving"
+                  },
+            "11": {
+                "11": "Rememberance Day"
+                  },
+            "12": {
+                "25": "Christmas Day",
+                "26": "Boxing Day"
+                  }
+                },
+        "2021": {
+            "1": {
+                "1": "New Year's Day"
+                 },
+            "2": {
+                "15": "Ontario Family Day"
+                 },
+            "4": {
+                "2": "Good Friday",
+                "5": "Easter"
+                 },
+            "5": {
+                "24": "Victoria Day"
+                 },
+            "7": {
+                "1": "Canada Day"
+                 },
+            "8": {
+                "2": "Civic Holiday"
+                 },
+            "9": {
+                "6": "Labour Day"
+                 },
+            "10": {
+                "11": "ThanksGiving"
+                  },
+            "11": {
+                "11": "Rememberance Day"
+                  },
+            "12": {
+                "25": "Christmas Day",
+                "26": "Boxing Day"
+                  }
+                }
+            }
+}

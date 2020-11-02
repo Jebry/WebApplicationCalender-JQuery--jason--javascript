@@ -1,0 +1,108 @@
+    /*
+    // Bashar Jebry
+    //June 11,2020
+    //Jebry@sheridancollege.ca
+    //style part
+    */
+    html, body{       
+        height: 100%;
+        width: 100%;     
+    }
+
+    .header{
+        font-size:calc(0.2em + 1.5vw);
+        display: grid;
+        grid-template-columns:repeat(3,1fr); 
+    }
+
+    .down{
+        position: relative;
+        transform:rotate(90deg);
+     
+    }
+
+    .left{
+        transform: rotate(180deg);
+    }
+
+    img{
+        margin-top: 25px;
+        height: 50px;
+        width: 50px;
+    }
+
+   .title{
+        font-weight: bold;
+        font-style: italic;
+        color: blue; 
+        text-align: center;
+    }
+
+    .gridParent1,.gridParent {
+        display:grid;
+        gap:5px;
+        grid-template-columns:repeat(7,1fr);  
+           
+        margin:10px;
+    }
+
+    .gridParent{
+        grid-template-rows:repeat(6,1fr);
+    }
+     #daysNumbers{
+        height:6vw;             
+    }
+   
+    .days{
+        font-size:calc(0.2em + 1.5vw);
+        border-width:2mm;
+        border-style: groove;           
+    }
+
+    .date{
+        text-align: center;
+        text-decoration:wavy;
+        color: rgb(230, 1, 1);       
+    }
+    
+    .bigContainer{
+        position: absolute;     
+        z-index:1;         
+        display:grid;
+        grid-template-columns:repeat(1,1fr); 
+        display: none;      
+    }
+
+    .mini{
+        width:500px;
+        height:500px;        
+    }
+
+    .container{
+        position:absolute;        
+        display: grid;
+        grid-template-columns:repeat(3,1fr);
+        right:150px;
+        top: 100px;
+    }
+
+    .miniCal{
+    position: absolute;
+    top:200px;
+    right: 8px;
+    }
+
+    .miniLeft{
+    transform: rotate(180deg);
+    }
+
+    .calenderSection{
+    position: relative;
+    right: 70px;
+    }
+
+    .backToToday{
+    position: absolute;
+    right:190px;
+    top: 480px;
+    }
